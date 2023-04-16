@@ -18,5 +18,3 @@ async function fetchAll() {
 }
 
 fetchAll();
-
-console.log(results);

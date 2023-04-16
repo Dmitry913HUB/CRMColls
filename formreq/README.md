@@ -1,4 +1,4 @@
-# formrequire
+# formreq
 
 ## Project setup
 ```

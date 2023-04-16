@@ -1,8 +1,3 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-
-createApp(App).mount('#app')
-
 const express = require('express');
 const https = require('https');
 
@@ -34,4 +29,3 @@ app.post('/processLinks', async (req, res) => {
 app.listen(3000, () => {
   console.log('Server started on port 3000');
 });
-
